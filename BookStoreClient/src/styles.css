@@ -1,0 +1,6 @@
+@import url("node_modules/ngx-spinner/animations/ball-pulse.css");
+@import url("node_modules/driver.js/dist/driver.css");
+
+a{
+    cursor: pointer;
+}

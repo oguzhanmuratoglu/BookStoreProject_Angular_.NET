@@ -1,0 +1,101 @@
+{
+    "categories": "Categories",   
+    "search": "Enter value to search for...",
+    "homePage": "Home Page",
+    "shoppingCartPage": "My Shopping Cart",    
+    "myProfile": "My Profile",
+    "bookName": "Book Name",
+    "author": "Author",
+    "summary": "Summary",
+    "logout": "Logout",  
+    "apiNotAvailable":"Api is bussy right now",
+    "apiNotFound": "Api not found", 
+    "paymentIsSuccessful": "Payment is successfull",   
+    "errorStatusNotFound": "We encountered an unknown error. Please contact with admin",
+    "allCategories": "All Categories",
+    "orders": "Orders",
+    "addBookInShoppingCartIsSuccessful": "Adding books to the shopping cart was successful",    
+    "price": "Price",
+    "noBooksInShoppingCart": "No book in shopping cart!",
+    "wereWorkingOn":"We encountered an error. We're working on that. Thanks for your understanding",
+    "howWeCanUseThisWebSite": "Would you like to discover",
+    "wouldYouLikeToDiscover": "how to use this website?",
+    "discover": "Discover",
+    "notShowAgain": "Not show again",
+    "bookQuantityIsNotEnough":"Book out of stock!",
+    "Bilim": "Science",
+    "remove": {
+        "doYouWantToDeleted": "Do you want to deleted?",
+        "cancelBtn": "Cancel",
+        "confirmBtn": "Remove"
+    },
+    "payment": {
+        "title": "Payment Page",  
+        "pay": "Pay",
+        "completePaymentBtn": "Complete Payment",
+        "buyer": {
+            "title": "Buyer Information",
+            "name": "Buyer Name",
+            "surname": "Buyer Lastname",
+            "identityNumber": "Identity Number",
+            "email": "Email",
+            "gsmNumber": "Phone Number"
+        },
+        "address": "Address Information",
+        "isSameAddress": "Shipping and billing address is the same",
+        "shippingAddress": {
+            "title": "Shipping Address",
+            "country": "Country",
+            "city": "City",
+            "zipCode": "Zip Code",
+            "contactName": "Contact Name",
+            "description": "Full Address"
+        },
+        "billingAddress": {
+            "title": "Billing Address",
+            "country": "Country",
+            "city": "City",
+            "zipCode": "Zip Code",
+            "contactName": "Contact Name",
+            "description": "Full Address"
+        },
+        "creditCart": {
+            "title": "Credit Card Information",
+            "cardHolderName": "Card Holder Name",
+            "cardNumber": "Car Number",
+            "expireMonthAndYear": "Expire Month And Year",
+            "cvc" : "CVC"
+        }
+    },
+    "signIn": {
+        "title" :"Sign In",
+        "fillYourInformation": "Please fill your information to sign in",
+        "usernameOrEmail": "Username or Email",
+        "password": "Password",
+        "signInBtn": "Sign In",
+        "gotoRegisterBtn": "If you don't have an account you can register for free"
+    },
+    "signUp": {
+        "title" :"Sign Up",
+        "fillYourInformation": "If you want to sign up. Please fill your information",
+        "name": "Name",
+        "lastname": "Lastname",
+        "password": "Password",
+        "username": "User Name",
+        "email": "Email",
+        "signUpBtn": "Sign In",
+        "gotoLoginBtn": "If you have a account you can login here"
+    },
+    "AwaitingApproval" : "Awaiting Approval",
+    "BeingPrepared" :"Being Prepared",
+    "InTransit": "In Transit",
+    "Delivered" : "Delivered",
+    "Rejected" : "Rejected",
+    "Returned" : "Returned",
+    "doComment": "Do Comment",
+    "return": "Return",
+    "comment": "Comment",
+    "raiting": "Raiting",
+    "close": "Close",
+    "save": "Save"
+}
